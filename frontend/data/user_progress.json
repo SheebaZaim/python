@@ -1,0 +1,39 @@
+{
+  "users": {
+    "example_user": {
+      "topics_completed": [
+        {
+          "topic": "Atomic Structure",
+          "completed_at": "2024-02-24T12:00:00",
+          "quiz_score": 85,
+          "attempts": 2
+        },
+        {
+          "topic": "Chemical Bonds",
+          "completed_at": "2024-02-24T13:30:00",
+          "quiz_score": 90,
+          "attempts": 1
+        }
+      ],
+      "study_streak": 3,
+      "total_study_time": 7200,
+      "badges": [
+        {
+          "name": "Quick Learner",
+          "earned_at": "2024-02-23T15:00:00",
+          "description": "Completed 5 topics in one day"
+        },
+        {
+          "name": "Perfect Score",
+          "earned_at": "2024-02-24T14:00:00",
+          "description": "Achieved 100% on a quiz"
+        }
+      ],
+      "achievements": {
+        "topics_mastered": 2,
+        "quizzes_completed": 3,
+        "perfect_scores": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# fastapi
+# uvicorn
+# wikipedia-api
+# passlib[bcrypt]
+# sqlite3
+# # 
+fastapi==0.68.1
+uvicorn==0.15.0
+wikipedia-api==0.5.4
+passlib==1.7.4
+bcrypt==3.2.0
+pydantic==1.8.2
+python-multipart==0.0.5
