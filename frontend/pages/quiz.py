@@ -3,6 +3,7 @@ import random
 import json
 from pathlib import Path
 
+
 def load_questions(topic):
     # In production, this would come from a database
     questions = {

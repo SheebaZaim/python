@@ -1,18 +1,48 @@
+# # Virtual Environment
+# .venv/
+# venv/
+# ENV/
+
+# # Environment Variables
+# .env
+# .env.local
+# .env.*.local
+
+# # Python
+# __pycache__/
+# *.py[cod]
+# *$py.class
+# *.so
+
+# # Database
+# *.db
+# *.sqlite3
+
+# # IDE
+# .vscode/
+# .idea/
+
+# # Streamlit
+# .streamlit/
+
+# # Logs
+# *.log
+
+# # Local data
+# data/
+# assets/uploads/
 # Virtual Environment
 .venv/
 venv/
 ENV/
 
-# Environment Variables
-.env
-.env.local
-.env.*.local
-
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
+
+# Environment variables
+.env
 
 # Database
 *.db
@@ -22,12 +52,5 @@ __pycache__/
 .vscode/
 .idea/
 
-# Streamlit
-.streamlit/
-
-# Logs
-*.log
-
 # Local data
 data/
-assets/uploads/
